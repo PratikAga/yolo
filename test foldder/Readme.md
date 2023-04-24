@@ -18,4 +18,4 @@ Credits
 This project was made possible by the following resources:
 
     YOLOv7: https://github.com/WongKinYiu/yolov7
-    Dataset of car images and annotations: [insert source here]
+    Dataset of car images and annotations: Kaggle
